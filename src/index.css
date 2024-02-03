@@ -1,0 +1,35 @@
+.container,
+.title {
+    display: flex;
+    justify-content: center;
+    color: hsl(178, 56%, 50%);
+    padding: 10px;
+
+}
+
+.row {
+    display: flex !important;
+    justify-content: center;
+}
+
+button {
+    color: white !important;
+    border: 1px solid black !important;
+}
+
+.rows {
+    display: flex !important;
+    justify-content: space-around !important;
+}
+
+#card {
+    background-color: rgb(184, 214, 222);
+}
+
+#bot {
+    background-color: rgb(42, 42, 172);
+}
+
+#form {
+    padding: 10px;
+}
